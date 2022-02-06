@@ -1,4 +1,4 @@
-# flutter_different_page_swap
+# mindfulness
 
 App stating the benefits of Meditation, Positive Emotions
 
