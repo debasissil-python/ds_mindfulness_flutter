@@ -1,6 +1,6 @@
 # flutter_different_page_swap
 
-Switch between different pages
+App stating the benefits of Meditation, Positive Emotions
 
 ## Getting Started
 
